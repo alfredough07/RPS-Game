@@ -1,0 +1,22 @@
+#header{
+    display: flex;
+    justify-content: center;
+}
+#main{
+    position:relative;
+    top:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#scorecard{
+    position:relative;
+    top:250px;
+    display: flex;
+    justify-content: center;
+
+}
+#scorecard p{
+    margin:10px 10px 10px 10px;
+    padding:10px 10px 10px px;
+}
